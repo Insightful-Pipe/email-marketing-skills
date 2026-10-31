@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-email-marketing",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "20 free Claude skills for email marketing: lifecycle strategy, welcome, nurture and win-back sequences, deliverability, list cleaning, RFM segments, newsletters and Klaviyo flow audits.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-email-marketing",
+      "description": "20 free Claude skills for email marketing: lifecycle strategy, welcome, nurture and win-back sequences, deliverability, list cleaning, RFM segments, newsletters and Klaviyo flow audits.",
+      "source": "./"
+    }
+  ]
+}
